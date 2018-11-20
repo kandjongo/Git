@@ -1,5 +1,5 @@
 
-public class aluno {
+public class aluno extends pessoa  {
 
 	private String curso;
 	private double[] notas;

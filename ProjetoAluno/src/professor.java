@@ -1,7 +1,6 @@
 
-public class professor {
-
-	private double salario;
+public class professor extends pessoa {
+	double salario;
     private String nomeCurso;
 
 public double calcularSalarioLiquido(){
