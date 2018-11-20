@@ -12,11 +12,11 @@ public class teste {
 		aluno.setCurso("\nCurso: Analise de Sistemas");
 		
 		
-		System.out.print(pessoa.getNome());
-		System.out.print(pessoa.getCpf());
-		System.out.print(professor.getSalario());
-		System.out.print(aluno.getCurso());
-			
+		System.out.println(pessoa.getNome());
+		System.out.println(pessoa.getCpf());
+		
+		
+		
 	}
 
 }
